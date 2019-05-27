@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://IchbinErKaiqi.github.io</id>
     <title>IchbinErKaiqi</title>
-    <updated>2019-05-27T14:11:44.093Z</updated>
+    <updated>2019-05-27T14:27:27.327Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://IchbinErKaiqi.github.io"/>
     <link rel="self" href="https://IchbinErKaiqi.github.io/atom.xml"/>
@@ -16,7 +16,124 @@
         <link href="https://IchbinErKaiqi.github.io/post/ming-xin-pian-shou-cang-jia">
         </link>
         <updated>2019-05-27T14:07:32.000Z</updated>
-        <content type="html"><![CDATA[<p><img src="https://IchbinErKaiqi.github.io/post-images/1558966166644.jpeg" alt=""></p>
+        <content type="html"><![CDATA[<p>&lt;!doctype html&gt;</p>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Light Theme</title>
+<link href="file:///Macintosh HD/Users/ichbinerkaiqi/Library/Application Support/Adobe/Dreamweaver CC 2018/zh_CN/Configuration/Temp/Assets/eam6b4633c.TMP/css/simpleGridTemplate.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+<!-- Main Container -->
+<div class="container"> 
+  <!-- Header -->
+  <!-- Hero Section -->
+  <!-- Stats Gallery Section -->
+  <div class="gallery">
+    <div class="thumbnail"> <a href="#"><img src="file:///Macintosh HD/Users/ichbinerkaiqi/Library/Application Support/Adobe/Dreamweaver CC 2018/zh_CN/Configuration/Temp/Assets/eam6b4633c.TMP/images/bkg_06.jpg" alt="" width="2000" class="cards"/></a>
+      <h4>TITLE</h4>
+      <p class="tag">HTML, CSS, JS, WordPress</p>
+      <p class="text_column">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+    </div>
+    <div class="thumbnail"> <a href="#"><img src="file:///Macintosh HD/Users/ichbinerkaiqi/Library/Application Support/Adobe/Dreamweaver CC 2018/zh_CN/Configuration/Temp/Assets/eam6b4633c.TMP/images/bkg_06.jpg" alt="" width="2000" class="cards"/></a>
+      <h4>TITLE</h4>
+      <p class="tag">HTML, CSS, JS, WordPress</p>
+      <p class="text_column">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+    </div>
+    <div class="thumbnail"> <a href="#"><img src="file:///Macintosh HD/Users/ichbinerkaiqi/Library/Application Support/Adobe/Dreamweaver CC 2018/zh_CN/Configuration/Temp/Assets/eam6b4633c.TMP/images/bkg_06.jpg" alt="" width="2000" class="cards"/></a>
+      <h4>TITLE</h4>
+      <p class="tag">HTML, CSS, JS, WordPress</p>
+      <p class="text_column">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+    </div>
+    <div class="thumbnail"> <a href="#"><img src="file:///Macintosh HD/Users/ichbinerkaiqi/Library/Application Support/Adobe/Dreamweaver CC 2018/zh_CN/Configuration/Temp/Assets/eam6b4633c.TMP/images/bkg_06.jpg" alt="" width="2000" class="cards"/></a>
+      <h4>TITLE</h4>
+      <p class="tag">HTML, CSS, JS, WordPress</p>
+      <p class="text_column">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+    </div>
+  </div>
+  <div class="gallery">
+    <div class="thumbnail"> <a href="#"><img src="file:///Macintosh HD/Users/ichbinerkaiqi/Library/Application Support/Adobe/Dreamweaver CC 2018/zh_CN/Configuration/Temp/Assets/eam6b4633c.TMP/images/bkg_06.jpg" alt="" width="2000" class="cards"/></a>
+      <h4>TITLE</h4>
+      <p class="tag">HTML, CSS, JS, WordPress</p>
+      <p class="text_column">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+    </div>
+    <div class="thumbnail"> <a href="#"><img src="file:///Macintosh HD/Users/ichbinerkaiqi/Library/Application Support/Adobe/Dreamweaver CC 2018/zh_CN/Configuration/Temp/Assets/eam6b4633c.TMP/images/bkg_06.jpg" alt="" width="2000" class="cards"/></a>
+      <h4>TITLE</h4>
+      <p class="tag">HTML, CSS, JS, WordPress</p>
+      <p class="text_column">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+    </div>
+    <div class="thumbnail"> <a href="#"><img src="file:///Macintosh HD/Users/ichbinerkaiqi/Library/Application Support/Adobe/Dreamweaver CC 2018/zh_CN/Configuration/Temp/Assets/eam6b4633c.TMP/images/bkg_06.jpg" alt="" width="2000" class="cards"/></a>
+      <h4>TITLE</h4>
+      <p class="tag">HTML, CSS, JS, WordPress</p>
+      <p class="text_column">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+    </div>
+    <div class="thumbnail"> <a href="#"><img src="file:///Macintosh HD/Users/ichbinerkaiqi/Library/Application Support/Adobe/Dreamweaver CC 2018/zh_CN/Configuration/Temp/Assets/eam6b4633c.TMP/images/bkg_06.jpg" alt="" width="2000" class="cards"/></a>
+      <h4>TITLE</h4>
+      <p class="tag">HTML, CSS, JS, WordPress</p>
+      <p class="text_column">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+    </div>
+  </div>
+  <!-- Footer Section -->
+  <!-- Copyrights Section --></div>
+<!-- Main Container Ends -->
+</body>
+	<body>
+<!-- Main Container -->
+<div class="container"> 
+  <!-- Header -->
+  <!-- Hero Section -->
+  <!-- Stats Gallery Section -->
+  <div class="gallery">
+    <div class="thumbnail"> <a href="#"><img src="file:///Macintosh HD/Users/ichbinerkaiqi/Library/Application Support/Adobe/Dreamweaver CC 2018/zh_CN/Configuration/Temp/Assets/eam6b4633c.TMP/images/bkg_06.jpg" alt="" width="2000" class="cards"/></a>
+      <h4>TITLE</h4>
+      <p class="tag">HTML, CSS, JS, WordPress</p>
+      <p class="text_column">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+    </div>
+    <div class="thumbnail"> <a href="#"><img src="file:///Macintosh HD/Users/ichbinerkaiqi/Library/Application Support/Adobe/Dreamweaver CC 2018/zh_CN/Configuration/Temp/Assets/eam6b4633c.TMP/images/bkg_06.jpg" alt="" width="2000" class="cards"/></a>
+      <h4>TITLE</h4>
+      <p class="tag">HTML, CSS, JS, WordPress</p>
+      <p class="text_column">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+    </div>
+    <div class="thumbnail"> <a href="#"><img src="file:///Macintosh HD/Users/ichbinerkaiqi/Library/Application Support/Adobe/Dreamweaver CC 2018/zh_CN/Configuration/Temp/Assets/eam6b4633c.TMP/images/bkg_06.jpg" alt="" width="2000" class="cards"/></a>
+      <h4>TITLE</h4>
+      <p class="tag">HTML, CSS, JS, WordPress</p>
+      <p class="text_column">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+    </div>
+    <div class="thumbnail"> <a href="#"><img src="file:///Macintosh HD/Users/ichbinerkaiqi/Library/Application Support/Adobe/Dreamweaver CC 2018/zh_CN/Configuration/Temp/Assets/eam6b4633c.TMP/images/bkg_06.jpg" alt="" width="2000" class="cards"/></a>
+      <h4>TITLE</h4>
+      <p class="tag">HTML, CSS, JS, WordPress</p>
+      <p class="text_column">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+    </div>
+  </div>
+  <div class="gallery">
+    <div class="thumbnail"> <a href="#"><img src="file:///Macintosh HD/Users/ichbinerkaiqi/Library/Application Support/Adobe/Dreamweaver CC 2018/zh_CN/Configuration/Temp/Assets/eam6b4633c.TMP/images/bkg_06.jpg" alt="" width="2000" class="cards"/></a>
+      <h4>TITLE</h4>
+      <p class="tag">HTML, CSS, JS, WordPress</p>
+      <p class="text_column">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+    </div>
+    <div class="thumbnail"> <a href="#"><img src="file:///Macintosh HD/Users/ichbinerkaiqi/Library/Application Support/Adobe/Dreamweaver CC 2018/zh_CN/Configuration/Temp/Assets/eam6b4633c.TMP/images/bkg_06.jpg" alt="" width="2000" class="cards"/></a>
+      <h4>TITLE</h4>
+      <p class="tag">HTML, CSS, JS, WordPress</p>
+      <p class="text_column">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+    </div>
+    <div class="thumbnail"> <a href="#"><img src="file:///Macintosh HD/Users/ichbinerkaiqi/Library/Application Support/Adobe/Dreamweaver CC 2018/zh_CN/Configuration/Temp/Assets/eam6b4633c.TMP/images/bkg_06.jpg" alt="" width="2000" class="cards"/></a>
+      <h4>TITLE</h4>
+      <p class="tag">HTML, CSS, JS, WordPress</p>
+      <p class="text_column">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+    </div>
+    <div class="thumbnail"> <a href="#"><img src="file:///Macintosh HD/Users/ichbinerkaiqi/Library/Application Support/Adobe/Dreamweaver CC 2018/zh_CN/Configuration/Temp/Assets/eam6b4633c.TMP/images/bkg_06.jpg" alt="" width="2000" class="cards"/></a>
+      <h4>TITLE</h4>
+      <p class="tag">HTML, CSS, JS, WordPress</p>
+      <p class="text_column">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+    </div>
+  </div>
+  <!-- Footer Section -->
+  <!-- Copyrights Section --></div>
+<!-- Main Container Ends -->
+</body>
+</html>
 ]]></content>
     </entry>
 </feed>
