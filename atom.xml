@@ -2,14 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://IchbinErKaiqi.github.io</id>
     <title>IchbinErKaiqi</title>
-    <updated>2019-05-27T14:44:21.790Z</updated>
+    <updated>2019-05-28T12:26:38.249Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://IchbinErKaiqi.github.io"/>
     <link rel="self" href="https://IchbinErKaiqi.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>秋月夜空下</subtitle>
     <logo>https://IchbinErKaiqi.github.io/images/avatar.png</logo>
     <icon>https://IchbinErKaiqi.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, IchbinErKaiqi</rights>
+    <entry>
+        <title type="html"><![CDATA[阳光照进地铁站]]></title>
+        <id>https://IchbinErKaiqi.github.io/post/yang-guang-zhao-jin-di-tie-zhan</id>
+        <link href="https://IchbinErKaiqi.github.io/post/yang-guang-zhao-jin-di-tie-zhan">
+        </link>
+        <updated>2019-05-28T12:22:48.000Z</updated>
+        <content type="html"><![CDATA[<p><em>远方的斜阳又度过了一天，落日的余晖抛洒到地上；暴风雨没有过去，这只不过是黑暗之前的光明</em>
+阳光照进地铁站
+尽管风吹得猛烈
+阳光照进地铁站
+虽然只有短短一边
+四月的艳阳里
+人们开始复苏
+耀眼的天空上
+有一朵白云是我的梦乡
+风吹的地铁站里
+有我牵挂的地方
+可怜的人在悲歌中相逢
+可是无谓的狂风啊
+任凭它在烟雨舞动
+所有沉痛的记忆
+留下铁一般的烙印
+是多么疯狂 多么悲惨
+可是阳光啊
+你照得进地下
+却照不进人们心中
+晚风激荡
+阳光早已褪去
+等待着我们的
+依然是无尽的黑暗
+深夜的垂柳
+还印着春天的痕迹
+可是阳光啊
+你走了还会回来
+谁来还我的时光呢？</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[唤醒，春天]]></title>
         <id>https://IchbinErKaiqi.github.io/post/huan-xing-chun-tian</id>
