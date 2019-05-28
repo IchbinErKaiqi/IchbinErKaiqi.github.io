@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://IchbinErKaiqi.github.io</id>
     <title>IchbinErKaiqi</title>
-    <updated>2019-05-28T12:27:30.423Z</updated>
+    <updated>2019-05-28T14:46:59.445Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://IchbinErKaiqi.github.io"/>
     <link rel="self" href="https://IchbinErKaiqi.github.io/atom.xml"/>
@@ -10,6 +10,20 @@
     <logo>https://IchbinErKaiqi.github.io/images/avatar.png</logo>
     <icon>https://IchbinErKaiqi.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, IchbinErKaiqi</rights>
+    <entry>
+        <title type="html"><![CDATA[五四运动一百周年：我的感想]]></title>
+        <id>https://IchbinErKaiqi.github.io/post/wu-si-yun-dong-yi-bai-zhou-nian-wo-de-gan-xiang</id>
+        <link href="https://IchbinErKaiqi.github.io/post/wu-si-yun-dong-yi-bai-zhou-nian-wo-de-gan-xiang">
+        </link>
+        <updated>2019-05-28T14:38:54.000Z</updated>
+        <content type="html"><![CDATA[<p>时逢五四运动一百周年，百年间的沧桑巨变，让历史仿佛变成了一道不可逾越的鸿沟。我们也许再也没有机会身临其境，亲身走进1919年那个风起云涌的时代，去感受那个时代。
+那么为什么要了解那个时代呢？答案很简单，五四运动后，中国便从旧民主主义革命进入到了新民主主义革命的阶段，直接影响了中国共产党的诞生和发展，可以说，没有五四运动，就没有今天的中国。
+又是谁喊出了五四运动的第一句口号？没错，正是像我们一样的青年人。这似乎对于今天养尊处优的我们来说有一些难以理解，但结合起当时的历史背景就不难看出：当时的中国正处在内忧外患的水深火热之中，自1840年以来，帝国主义势力的扩张从来没有停下过脚步；辛亥革命后的军阀混战，使人们看不到希望的曙光。
+但时代是有它的局限性的，今天的中国，早已不是百年前那个羸弱不堪的中国了；今天的人们，将要离开温饱线，奔向小康；今天的国际社会，也隐藏起了当年嚣张的气焰，这是一个合作共赢的时代。
+作为新时代的青年，我们在学校中刻苦学习，常常会面临这样一个问题：我们学习究竟是为了什么？似乎很好回答：为了祖国，为了报效国家。和平年代，还保持着这样的想法的人减少了许多，或者说不是那么重要了，这不一定是一件坏事。我相信大多数人都拥有自己的理想，当今时代，和平稳定的环境为我们的梦想搭建了舞台，我们尽可以在上面大显身手。一个国家和社会繁荣昌盛的表现是文化的多样性、思想的多样性，只有本着“兼收并蓄”的原则，在一个开放的环境中发展，国家才能富强。
+当然，自己的个人目标与国家的利益难免有产生分歧的时候。这时，停下来想一想你的初心，爱国之情是埋藏在我们每个中国人内心深处的真挚情感。人不是孤独的个体，脚下的路，是自己与祖国一同铺设的。如果是我，我会毅然选择，为祖国贡献出自己的力量。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[阳光照进地铁站]]></title>
         <id>https://IchbinErKaiqi.github.io/post/yang-guang-zhao-jin-di-tie-zhan</id>
