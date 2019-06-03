@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://IchbinErKaiqi.github.io</id>
     <title>IchbinErKaiqi</title>
-    <updated>2019-05-29T14:10:19.210Z</updated>
+    <updated>2019-06-03T12:23:27.900Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://IchbinErKaiqi.github.io"/>
     <link rel="self" href="https://IchbinErKaiqi.github.io/atom.xml"/>
@@ -10,6 +10,56 @@
     <logo>https://IchbinErKaiqi.github.io/images/avatar.png</logo>
     <icon>https://IchbinErKaiqi.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, IchbinErKaiqi</rights>
+    <entry>
+        <title type="html"><![CDATA[夏夜暮雨]]></title>
+        <id>https://IchbinErKaiqi.github.io/post/xia-ye-mu-yu</id>
+        <link href="https://IchbinErKaiqi.github.io/post/xia-ye-mu-yu">
+        </link>
+        <updated>2019-06-03T12:19:31.000Z</updated>
+        <summary type="html"><![CDATA[<p>玄外四起雷鸣钟，</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>玄外四起雷鸣钟，</p>
+<!-- more -->
+<p>忽来电闪似天峥。</p>
+<!-- more -->
+<p>卧听轰雷俄白昼，</p>
+<!-- more -->
+<p>却感人间六月中。</p>
+<!-- more -->
+<p>滴水停连似游走，</p>
+<!-- more -->
+<p>悠悠踱步日暮松。</p>
+<!-- more -->
+<p>向晚凉意沁透窗，</p>
+<!-- more -->
+<p>暂去初夏愈深暑。</p>
+<!-- more -->
+<p>正值偷闲好去处，</p>
+<!-- more -->
+<p>去屋游赏暮天灯。</p>
+<!-- more -->
+<p>雨击残花凋敝落，</p>
+<!-- more -->
+<p>踱步直上砖头路。</p>
+<!-- more -->
+<p>不觉深入湖心户，</p>
+<!-- more -->
+<p>天色苍茫阴暗树。</p>
+<!-- more -->
+<p>左右无人相伴过，</p>
+<!-- more -->
+<p>浊云堆落潭水东。</p>
+<!-- more -->
+<p>可怜繁星停不住，</p>
+<!-- more -->
+<p>前行徘徊阴雨风。</p>
+<!-- more -->
+<p>最喜烟火深三渡，</p>
+<!-- more -->
+<p>只闻涟漪伴雨声。</p>
+<!-- more -->
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[《邓小平》影评]]></title>
         <id>https://IchbinErKaiqi.github.io/post/lesslessdeng-xiao-ping-greatergreater-ying-ping</id>
